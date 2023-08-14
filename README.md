@@ -4,7 +4,7 @@
 
 <img align="right" alt="codingGif" width=400 src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
-- 🌱 I’m currently learning **typescript, javascript, vue js, rect js, express js, tailwind css, nest js**
+- 🌱 I’m currently learning **typescript, javascript, vue js, react js, express js, tailwind css, nest js**
 
 - 📫 How to reach me **ilham.adi78@gmail.com**
 
