@@ -4,7 +4,7 @@
 
 <img align="right" alt="codingGif" width=400 src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
-- 🌱 I’m currently learning **Java, SpringBoot and Quarkus**
+- 🌱 I’m currently learning **C# and ASP .NET Framework 5 MVC**
 
 - 📫 How to reach me **ilham.adi78@gmail.com**
 
